@@ -1,0 +1,23 @@
+header {
+    background-color:blue;
+    color:bisque;
+    text-align: center;
+    font-size: 60pt;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande'
+}
+
+main {
+    background-color:violet;
+    color:bisque;
+    text-align: center;
+    font-size: 40pt;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande'
+}
+
+footer {
+    background-color:red;
+    color:bisque;
+    text-align: center;
+    font-size: 40pt;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande'
+}
